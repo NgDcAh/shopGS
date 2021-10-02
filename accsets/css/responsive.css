@@ -14,7 +14,14 @@
     .contact-form .form-control{
         padding: 15px;
     }
+    .socials-list{
+        font-size: 48px;
+    }
+    #footer .socials-list a{
+        margin: 0 8px;
+    }
 }
+
 
 /*mobile*/
 @media (max-width: 739px){
