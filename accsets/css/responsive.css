@@ -1,13 +1,13 @@
-/*pc*/
-@media (min-width:1024px){
+/*pc min 1024px */
+@media (min-width:64.000em){
 
 }
-/*tablet*/
-@media (min-width: 740px) and (max-width: 1023px){
+/*tablet 740px to 1023px */
+@media (min-width: 46.250em) and (max-width: 63.938em){
 
 }
-/*mobile & tablet*/
-@media (max-width: 1023px){
+/*mobile & tablet max 1023px*/
+@media (max-width: 63.938em){
     .btn{
         padding: 15px 16px;
     }
@@ -23,8 +23,8 @@
 }
 
 
-/*mobile*/
-@media (max-width: 739px){
+/*mobile* max 739px*/
+@media (max-width: 46.188em){
 
     .s-full-width{
         width: 100%;
